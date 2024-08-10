@@ -1,0 +1,41 @@
+.Body{
+  width: 100%;
+  height: 400vh;
+  /* background-color: black; */
+  /* border: 3px solid rgb(43, 0, 255); */
+}
+@media screen and (max-width: 1200px) {
+  .Body{
+    height: 240vh;
+  }
+}
+
+@media screen and (max-width: 940px) {
+  .Body{
+    height:460vh;
+  }
+}
+
+@media screen and (max-width: 860px) {
+    .Body{
+      height: 480vh;
+    }
+}
+
+@media screen and (max-width: 780px) {
+  .Body{
+    height: 500vh;
+  }
+}
+
+@media screen and (max-width: 670px) {
+  .Body{
+    height: 490vh;
+  }
+}
+
+@media screen and (max-width: 570px) {
+  .Body{
+    height: 520vh;
+  }
+}
